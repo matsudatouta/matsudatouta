@@ -2,7 +2,11 @@
 長いため息をつくの </p>
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/052180a9-72c6-42ac-8911-83b96c448d57" width="80%" controls></video>
+<video src="https://github.com/user-attachments/assets/90ef230e-85ba-4462-ad2a-4f18feefe5ed" width="80%" controls></video>
+
+
+
+
 
 
 
